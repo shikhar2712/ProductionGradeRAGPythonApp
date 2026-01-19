@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables (NEVER COMMIT)
+.env
+.env.*
+
+# IDE / OS files
+.idea/
+.vscode/
+.DS_Store
+
+# App runtime data
+uploads/
+.qdrant/
+
+# Python version files
+.python-version
+
